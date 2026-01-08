@@ -1,5 +1,5 @@
 
-# 📘 Mastering C Programming 🚀
+# 🔰 Mastering C Programming 🚀
 ### 💻 From Basics to Advanced | 🎓 Exam-Ready | 🧠 Logic Building
 
 Welcome to **📘 Mastering C Programming 🚀** — a complete and well-structured repository created to **master the C language step by step**.
