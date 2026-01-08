@@ -10,29 +10,21 @@ This repository is designed for **students, beginners, and exam aspirants** who 
 
 ## ✨ Why This Repository?
 
-✅ Beginner ➝ Advanced C Programs  
-✅ 📂 Well-organized folder structure  
-✅ 💻 Clean & readable source code  
-✅ 🧠 Focus on logic & problem solving  
-✅ 🎓 Useful for college labs & exams  
-✅ 💼 Helpful for interviews  
+ Beginner ➝ Advanced C Programs  
+ 📂 Well-organized folder structure  
+ 💻 Clean & readable source code  
+ 🧠 Focus on logic & problem solving  
+ 🎓 Useful for college labs & exams  
+ 💼 Helpful for interviews  
 
 ---
 
-## 📂 Folder Structure
-
-```text
-Mastering-C-Programming/
-│
-├── 01_Basics/                📌
-├── 02_Conditional_Statements/ 🔀
-├── 03_Loops/                 🔁
-├── 04_Functions/             🧩
-├── 05_Arrays/                📊
-├── 06_Strings/               🔤
-├── 07_Pointers/              👉
-├── 08_Structures_Union/      🧱
-├── 09_File_Handling/         📁
-├── 10_DSA_Basics/            ⚙️
-└── README.md                 📘
-
+## 📚 Topics Included
+- Fundamentals of Programming
+- Problems on Numbers
+- Problems on Digits
+- Problems on N Numbers
+- Pattern Printing
+- String Handling
+- Bitwise Operators
+- Recursion
